@@ -1,2 +1,13 @@
 # Dino-Game
-Another fun pygame project, this time my own interpretation of Chrome's no internet dinosaur game. I wanted to keep the basics of jumping and crouching, but add the ability to change your dino's design. Currently working on getting the day-night cycle to work correctly (it gets stuck on an eternal night!)
+Current Features: 
+- Change which dinosaur you play as (four variants)
+- Keep track of your current score and your personal best
+- Game slowly turns to night the longer you survive
+- Able to duck under and jump over obstacles
+- Dino will slowly speed up the longer you play
+
+Future Additions:
+- Ensure day/night cycle does not get stuck on night time
+- Add actual assets for the obstacles
+- Add a nice background for more scenery
+- Backing track?
