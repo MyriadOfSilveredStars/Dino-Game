@@ -6,8 +6,10 @@ Current Features:
 - Able to duck under and jump over obstacles
 - Dino will slowly speed up the longer you play
 
+A demo video is available, which shows the above features
+
 Future Additions:
 - Ensure day/night cycle does not get stuck on night time
 - Add actual assets for the obstacles
 - Add a nice background for more scenery
-- Backing track?
+- Backing track
